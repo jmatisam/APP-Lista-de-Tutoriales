@@ -1,0 +1,25 @@
+# Ignorar directorios de dependencias
+/node_modules/
+/vendor/
+
+# Ignorar archivos de configuración de IDE
+/.idea/
+/.vscode/
+
+# Ignorar archivos de compilación
+*.o
+*.class
+
+# Ignorar archivos generados en tiempo de ejecución
+*.log
+*.tmp
+*.env
+
+# Ignorar directorios de salida de compilación
+/bin/
+/out/
+/target/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
